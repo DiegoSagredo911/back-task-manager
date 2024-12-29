@@ -8,12 +8,7 @@
 
 ## 1. Clonar el repositorio
 
-Primero, debes clonar el repositorio donde se encuentra el proyecto.
-
-```bash
-git clone <url_del_repositorio>
-cd <nombre_del_repositorio>
-```
+Primero, debes clonar el repositorio
 
 ## 2. Instalar dependencias
 
